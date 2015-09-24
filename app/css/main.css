@@ -1,0 +1,12 @@
+body {
+	background: black;
+}
+
+.header {
+	color: white;
+} 
+
+.text {
+	font-style: italic;
+	color:white;
+}
